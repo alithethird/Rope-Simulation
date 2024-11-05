@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\ropecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:ropecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\formropesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:formropesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\ropecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:ropecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\physics-classes\\physics1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:physics-classes\\physics1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\glu-classes\\wgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:glu-classes\\wgl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\glu-classes\\glu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:glu-classes\\glu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\glu-classes\\gl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:glu-classes\\gl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\glu-classes\\basegl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:glu-classes\\basegl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|c:\\users\\ali\\documents\\github\\rope-simulation\\physics-classes\\vector3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9BAE23-6AC2-43DE-B5D4-E57E9C19582D}|Rope.csproj|solutionrelative:physics-classes\\vector3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RopeControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\RopeControl.cs",
+              "RelativeDocumentMoniker": "RopeControl.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\RopeControl.cs [Design]",
+              "RelativeToolTip": "RopeControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:14:16.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WGL.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\WGL.cs",
+              "RelativeDocumentMoniker": "GLU-Classes\\WGL.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\WGL.cs",
+              "RelativeToolTip": "GLU-Classes\\WGL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:59.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GLU.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\GLU.cs",
+              "RelativeDocumentMoniker": "GLU-Classes\\GLU.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\GLU.cs",
+              "RelativeToolTip": "GLU-Classes\\GLU.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GL.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\GL.cs",
+              "RelativeDocumentMoniker": "GLU-Classes\\GL.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\GL.cs",
+              "RelativeToolTip": "GLU-Classes\\GL.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:51.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseGL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\BaseGL.cs",
+              "RelativeDocumentMoniker": "GLU-Classes\\BaseGL.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\GLU-Classes\\BaseGL.cs [Design]",
+              "RelativeToolTip": "GLU-Classes\\BaseGL.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:50.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vector3D.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Physics-Classes\\Vector3D.cs",
+              "RelativeDocumentMoniker": "Physics-Classes\\Vector3D.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Physics-Classes\\Vector3D.cs",
+              "RelativeToolTip": "Physics-Classes\\Vector3D.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:13:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RopeControl.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\RopeControl.cs",
+              "RelativeDocumentMoniker": "RopeControl.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\RopeControl.cs",
+              "RelativeToolTip": "RopeControl.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:11:43.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Physics1.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Physics-Classes\\Physics1.cs",
+              "RelativeDocumentMoniker": "Physics-Classes\\Physics1.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Physics-Classes\\Physics1.cs",
+              "RelativeToolTip": "Physics-Classes\\Physics1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:10:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRopeSimulation.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\FormRopeSimulation.cs",
+              "RelativeDocumentMoniker": "FormRopeSimulation.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\FormRopeSimulation.cs",
+              "RelativeToolTip": "FormRopeSimulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:06:48.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ali\\Documents\\GitHub\\Rope-Simulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:06:30.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

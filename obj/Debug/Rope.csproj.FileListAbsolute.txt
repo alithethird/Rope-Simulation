@@ -1,0 +1,12 @@
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.csproj.AssemblyReference.cache
+C:\Users\ali\Documents\GitHub\Rope-Simulation\bin\Debug\Rope.exe.config
+C:\Users\ali\Documents\GitHub\Rope-Simulation\bin\Debug\Rope.exe
+C:\Users\ali\Documents\GitHub\Rope-Simulation\bin\Debug\Rope.pdb
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\RopeSimulation__GLUMethod.FormParameters.resources
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\RopeSimulation__GLUMethod.FormRopeSimulation.resources
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\OpenGL.BaseGLControl.resources
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.Properties.Resources.resources
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.csproj.GenerateResource.cache
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.csproj.CoreCompileInputs.cache
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.exe
+C:\Users\ali\Documents\GitHub\Rope-Simulation\obj\Debug\Rope.pdb

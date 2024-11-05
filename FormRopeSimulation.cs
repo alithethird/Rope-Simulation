@@ -1,8 +1,6 @@
+using OpenGL;
 using System;
 using System.Windows.Forms;
-
-using Physics;
-using OpenGL;
 
 namespace RopeSimulation__GLUMethod
 {
@@ -19,13 +17,13 @@ namespace RopeSimulation__GLUMethod
             this.Load += new EventHandler(FormRopeSimulation_Load);
             this.Activated += new EventHandler(FormRopeSimulation_Activated);
             this.KeyPreview = true;
-            
+
             gl.Parent = this;
             gl.Location = new System.Drawing.Point(0, 0);
             gl.Dock = DockStyle.Fill;
 
 
-            string stStatusLable = "For motion:     X(Left-Right)     " +
+            string stStatusLable = "For yo mama motion:     X(Left-Right)     " +
             "Z(Up-Down)     Y(Home-End)      Release(Space)";
             toolStripStatusLabel1.Text = stStatusLable;
         }
@@ -45,22 +43,22 @@ namespace RopeSimulation__GLUMethod
                 gl.CallOnKeyDown(kea);
                 return true;
             }
-            
+
             return base.ProcessDialogKey(keyData);
         }
         void FormRopeSimulation_Load(object sender, EventArgs e)
         {
-            //DialogResult key = MessageBox.Show(null, "Would You Like To Run In Fullscreen Mode?",
-            //    "Start Fullscreen?", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
-            //if (key == DialogResult.Yes)
-            //{
-            //    this.FormBorderStyle = FormBorderStyle.None;
-            //    this.Location = new System.Drawing.Point(0, 0);
-            //    this.Size = Screen.PrimaryScreen.Bounds.Size;
-            //}
+            DialogResult key = MessageBox.Show(null, "Would You Like To Run In Fullscreen Mode?",
+                "Start Fullscreen?", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+            if (key == DialogResult.Yes)
+            {
+                this.FormBorderStyle = FormBorderStyle.None;
+                this.Location = new System.Drawing.Point(0, 0);
+                this.Size = Screen.PrimaryScreen.Bounds.Size;
+            }
         }
 
-      
-             
+
+
     }
 }
